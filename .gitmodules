@@ -1,3 +1,6 @@
 [submodule "Admission-Portal"]
 	path = Admission-Portal
 	url = https://github.com/ShubhamBhavsar101/Admission-Portal
+[submodule "Local-File-Sharing-with-socket"]
+	path = Local-File-Sharing-with-socket
+	url = https://github.com/ShubhamBhavsar101/Project--Local-File-Sharing-with-socket-
