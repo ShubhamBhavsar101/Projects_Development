@@ -1,0 +1,3 @@
+[submodule "Admission-Portal"]
+	path = Admission-Portal
+	url = https://github.com/ShubhamBhavsar101/Admission-Portal
