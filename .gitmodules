@@ -4,3 +4,6 @@
 [submodule "Local-File-Sharing-with-socket"]
 	path = Local-File-Sharing-with-socket
 	url = https://github.com/ShubhamBhavsar101/Project--Local-File-Sharing-with-socket-
+[submodule "ERP-Project-Live"]
+	path = ERP-Project-Live
+	url = git@github.com:ShubhamBhavsar101/ERP-Project-Live.git
